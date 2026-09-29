@@ -4,18 +4,14 @@
 
 **Cybersecurity Engineer | SOC & Incident Response | Blue Teaming**
 
-I am a Cybersecurity Engineer specializing in Infrastructure Defense and Security Operations (Blue Teaming). My academic background in Computer Science provides me with a strong foundational logic, which I leverage to build advanced, self-driven expertise in cyber defense. 
+I am a Cybersecurity Engineer focused on Blue Teaming and SOC operations. Combining a solid CS foundation with intensive hands-on labs, I specialize in enterprise infrastructure defense and real-world threat simulations. NTI Graduate | 2x DEPI Scholar.
 
-I bridge the gap between theory and enterprise-level defense through intensive hands-on lab deployment, simulation of real-world attack scenarios, and structured technical training. My engineering capabilities are validated through top-tier programs, proudly standing as an **NTI graduate** and a **two-time DEPI Scholar**.
+### 🛡️ Core Capabilities & Tools
 
----
-
-### 🛡️ Core Capabilities & Tech Stack
-
-*   **Network & Edge Defense:** Designing secure topologies using Cisco CCNA architecture, provisioning Next-Generation Firewalls (Fortinet NGFW/FortiGate), and orchestrating policy automation via FortiManager.
-*   **SOC & Security Monitoring:** Deploying SIEM/EDR ecosystems (Splunk Enterprise, Wazuh), performing log engineering, event correlation, and alert triage for rapid incident response.
-*   **Systems & Identity Hardening:** Securing enterprise identity infrastructure via Active Directory Security, auditing access controls, and administering Linux (Kali/Ubuntu) and Windows Server environments.
-*   **Security Automation:** Leveraging Python for security tool development, task automation, and threat detection algorithms.
+*   **Network & Edge Defense:** Cisco CCNA | Fortinet NGFW (FortiGate) | FortiManager | Secure Topologies
+*   **SOC & Monitoring:** Splunk Enterprise | Wazuh SIEM/EDR | Log Engineering | Incident Response
+*   **Systems & Identity:** Active Directory Security | Windows Server | Linux (Kali/Ubuntu)
+*   **Security Automation:** Python (Security Tooling & Threat Detection)
 
 ---
 
